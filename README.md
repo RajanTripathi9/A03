@@ -26,15 +26,26 @@ Congratulations! You have used Git version control successfully.
 ### Glossary
 
 **Branch**: Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
+
 **Clone**: The git clone command is used to create a copy of a specific repository or branch within a repository.
+
 **Commit**: git commit creates a commit, which is like a snapshot of your repository. These commits are snapshots of your entire repository at specific times.
+
 **Fetch**: Fetching changes from a remote repository. Use git fetch to retrieve new work done by other people.
+
 **GIT**: Version control system.
+
 **Github**:  provider of Internet hosting for software development and version control using Git
+
 **Merge**: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
 **Merge Conflict**: Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final version.
+
 **Push**: git push updates the remote branch with local commits. It is one of the four commands in Git that prompts interaction with the remote repository.
+
 **Pull**: git pull is one of the 4 remote operations within Git. Without running git pull , your local repository will never be updated with changes from the remote.
+
 **Remote**: A remote in Git is a common repository that all team members use to exchange their changes.
+
 **Repository**: A repository contains all of your project's files and each file's revision history. 
 
